@@ -16,7 +16,7 @@
 - :technologist: I love harnessing the power of data to solve problems.  
 - 🎓 **Student:** Currently pursuing a degree in Systems Engineering.  
 - 🤓 **Lifelong Learner:** Always exploring and mastering new skills.  
-- 💼 **Open to Opportunities:** Seeking a role in Data Science. [View My Resume](https://ka1lak.github.io/paginaWeb_portafolio/CV_2025_RISSEL_SAAVEDRA.pdf).  
+- 💼 **Open to Opportunities:** Seeking a role in Data Science. [View My Resume](https://miperfil-gilt.vercel.app//CV_2025_RISSEL_SAAVEDRA.pdf).  
 - 🌐 **Portfolio Website:** [Visit My Site](https://miperfil-gilt.vercel.app/).  
 - 📊 **Passionate About:** Data analytics, machine learning, and creating impactful insights.  
 
