@@ -22,10 +22,26 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ka1laK&&show_icons=true&count_private=true&theme=github_dark&cache_seconds=3600" alt="Estadísticas generales"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ka1laK&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D" alt="Racha de contribuciones"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1laK&layout=compact&theme=github_dark&hide=html,css,jupyter%20notebook&cache_seconds=3600" alt="Lenguajes de programación más usados"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ka1laK&theme=github_dark&cache_seconds=3600" alt="Resumen del perfil"/>
-
+<center>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ka1laK&&show_icons=true&count_private=true&theme=github_dark&cache_seconds=3600" alt="Estadísticas generales" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1laK&layout=compact&theme=github_dark&hide=html,css,jupyter%20notebook&cache_seconds=3600" alt="Lenguajes de programación más usados" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ka1laK&theme=github_dark" alt="Resumen del perfil" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=Ka1laK&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Estadísticas de contribuciones" width="400"/>
+    </td>
+  </tr>
+</table>
+</center>
 
 
 ## 🛠 &nbsp;Tech Stack
