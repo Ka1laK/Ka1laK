@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rissel-saavedra-nieto)](https://www.linkedin.com/in/rissel-saavedra-nieto)  [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/Ka1laK)](https://github.com/Ka1laK)    [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/ka1lak)](https://www.kaggle.com/ka1lak)    [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white&link=https://miperfil-gilt.vercel.app/)](https://miperfil-gilt.vercel.app/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:rissel.saavedra@gmail.com)](mailto:rissel.saavedra@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rissel-saavedra-nieto)](https://www.linkedin.com/in/rissel-saavedra-nieto)  [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/Ka1laK)](https://github.com/Ka1laK)    [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/ka1lak)](https://www.kaggle.com/ka1lak)    [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white&link=https://miperfil-risn.vercel.app/)](https://miperfil-gilt.vercel.app/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:rissel.saavedra@gmail.com)](mailto:rissel.saavedra@gmail.com)
 </div>
 
 
@@ -16,8 +16,8 @@
 - :technologist: I love harnessing the power of data to solve problems.  
 - 🎓 **Student:** Currently pursuing a degree in Systems Engineering.  
 - 🤓 **Lifelong Learner:** Always exploring and mastering new skills.  
-- 💼 **Open to Opportunities:** Seeking a role in Data Science. [View My Resume](https://miperfil-gilt.vercel.app//CV_2025_RISSEL_SAAVEDRA.pdf).  
-- 🌐 **Portfolio Website:** [Visit My Site](https://miperfil-gilt.vercel.app/).  
+- 💼 **Open to Opportunities:** Seeking a role in Data Science. [View My Resume](https://miperfil-risn.vercel.app//CV_2025_RISSEL_SAAVEDRA.pdf).  
+- 🌐 **Portfolio Website:** [Visit My Site](https://miperfil-risn.vercel.app/).  
 - 📊 **Passionate About:** Data analytics, machine learning, and creating impactful insights.  
 
 ## Github Stats
