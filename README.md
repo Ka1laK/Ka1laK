@@ -29,15 +29,15 @@
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ka1laK&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"&theme=github_dark&cache_seconds=3600" alt="Estadísticas generales" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1laK&layout=compact&theme=github_dark&hide=html,css,jupyter%20notebook,handlebars&cache_seconds=3600" alt="Lenguajes de programación más usados" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka1laK&layout=compact&theme=algolia&hide=html,css,jupyter%20notebook,handlebars&cache_seconds=3600" alt="Lenguajes de programación más usados" width="400"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ka1laK&theme=github_dark" alt="Resumen del perfil" width="400"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ka1laK&theme=algolia" alt="Resumen del perfil" width="400"/>
     </td>
     <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=Ka1laK&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Estadísticas de contribuciones" width="400"/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=Ka1laK&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Estadísticas de contribuciones" width="400"/>
     </td>
   </tr>
 </table>
